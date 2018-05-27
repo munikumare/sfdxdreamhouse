@@ -15,6 +15,17 @@
             </componentInstanceProperties>
             <componentName>runtime_sales_pathassistant:pathAssistant</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>defaultSearch</name>
+                <value>Restaurants</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>designHeight</name>
+                <value>small</value>
+            </componentInstanceProperties>
+            <componentName>YelpDemo</componentName>
+        </componentInstances>
         <mode>Replace</mode>
         <name>header</name>
         <type>Region</type>
